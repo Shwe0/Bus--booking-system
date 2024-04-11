@@ -1,5 +1,6 @@
 # Bus--booking-system
 php,mysql
+Run the code on Xampp
 ![Screenshot (958)](https://github.com/Shwe0/Bus--booking-system/assets/127282784/226a1cde-770a-4741-b810-116307b4d970)
 ![Screenshot (960)](https://github.com/Shwe0/Bus--booking-system/assets/127282784/2b616343-ca9f-4c08-822b-689d7cae79b6)
 ![Screenshot (961)](https://github.com/Shwe0/Bus--booking-system/assets/127282784/59cc005e-f1b6-4753-b9c5-4defa696778c)
